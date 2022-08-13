@@ -872,7 +872,7 @@ local ThemeManager = loadstring(game:HttpGet(repo .. 'addons/ThemeManager.lua'))
 local SaveManager = loadstring(game:HttpGet(repo .. 'addons/SaveManager.lua'))()
 
 local Window = Library:CreateWindow({
-    Title = 'Spotify | Premium | made by ryann#0009',
+    Title = 'Spotify | Premium | made by ryann#0219',
     Center = true, 
     AutoShow = true,
 })
